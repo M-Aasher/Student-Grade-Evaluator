@@ -5,11 +5,11 @@ It uses if–else if–else conditional statements to assign the correct grade c
 
 # ✨ Author & Tech Info
 
-➤ Author: Aasher
-➤ Language Used: C
-➤ Platform/Compiler: Programiz Online Compiler / GCC / Code::Blocks / Turbo C
-➤ Date Created: 31/10/2025
-
+➤ Author: Aasher    
+➤ Language Used: C  
+➤ Platform/Compiler: Programiz Online Compiler / GCC / Code::Blocks / Turbo C  
+➤ Date Created: 31/10/2025  
+   
 ## 🎯 Purpose
 
 To practice conditional branching in C using if–else if–else statements,
@@ -17,9 +17,9 @@ and to apply real-world logic for grading based on numerical input.
 
 ## 🧠 Logic
 
-### Input: Student’s marks (0–100)
+### Input: Student’s marks (0–100)  
 
-### Validation: Ensure marks are within range
+### Validation: Ensure marks are within range  
 
 ### Grade Assignment:
 
